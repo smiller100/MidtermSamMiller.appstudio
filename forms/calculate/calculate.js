@@ -8,4 +8,4 @@ function calcAvgSquare (a,b,c) {
   let num3 = Number(prompt("Enter your third number."))
   let calcResult = calcAvgSquare(num1,num2,num3)
   alert(`The answer is ${calcResult}.`)
-  */
+*/
